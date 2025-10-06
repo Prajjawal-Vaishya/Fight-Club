@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Game Jam\\Cognition Game Jam 2025\\Parkour - Copy\\Intermediate\\Source\\Parkour.Build.cs",
+		"D:\\Game Jam\\Cognition Game Jam 2025\\Parkour - Copy\\Intermediate\\Source\\Parkour.Target.cs",
+		"D:\\Game Jam\\Cognition Game Jam 2025\\Parkour - Copy\\Intermediate\\Source\\ParkourClient.Target.cs",
+		"D:\\Game Jam\\Cognition Game Jam 2025\\Parkour - Copy\\Intermediate\\Source\\ParkourEditor.Target.cs",
+		"D:\\Game Jam\\Cognition Game Jam 2025\\Parkour - Copy\\Intermediate\\Source\\ParkourServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

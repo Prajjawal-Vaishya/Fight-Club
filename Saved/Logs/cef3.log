@@ -1,0 +1,435 @@
+[0920/110746.776:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0920/110746.778:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0920/110751.981:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110752.495:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110753.986:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110753.988:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110753.988:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110753.990:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110754.565:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110754.565:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110754.566:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110754.610:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.076:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.076:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.076:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.076:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.076:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.077:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.244:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.244:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.448:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110755.448:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110758.724:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110758.792:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110758.837:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110758.839:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110759.014:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110759.391:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110759.391:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110759.391:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110802.233:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110802.906:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110803.099:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110803.100:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110803.507:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110803.507:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110809.339:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110809.339:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110811.825:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110811.825:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110818.307:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110818.361:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110820.027:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110820.830:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110820.928:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110820.969:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110833.929:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110833.930:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110835.228:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110835.228:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110836.221:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110836.221:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110837.965:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110837.965:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110855.616:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110856.287:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110856.691:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110856.691:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110856.721:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110856.761:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110908.337:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110908.338:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110908.379:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110908.380:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/110945.279:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0920/111037.150:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0920/111037.382:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0920/111038.709:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111038.716:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111038.727:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111038.736:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111045.701:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0920/111045.911:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0920/111046.358:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111046.372:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111046.387:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111046.395:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0920/111047.098:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.098:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.098:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.098:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.099:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.164:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.164:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.165:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.165:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/111047.165:ERROR:gl_utils.cc(314)] [.WebGL-000006D7D1B72700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0920/134901.724:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/134901.740:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/134903.407:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134903.407:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134903.422:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134903.424:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134903.824:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134903.837:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134903.988:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/134904.003:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180304.212:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180304.250:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180304.256:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180304.273:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.017:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.017:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.038:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.043:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.055:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.060:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.067:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.073:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.776:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.785:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.889:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180308.897:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180310.815:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180310.823:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180310.891:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180310.905:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180314.000:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180314.009:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180314.033:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180314.043:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180318.915:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180318.924:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180319.007:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180319.021:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180326.074:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180326.082:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180326.083:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180326.094:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180326.442:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180326.455:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180335.845:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180335.860:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180337.267:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180337.276:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180351.123:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180351.132:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180352.220:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180352.232:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180413.805:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180413.806:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180413.816:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/180413.816:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0920/181942.115:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/181946.950:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/181951.966:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/181956.979:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182001.996:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182007.014:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182012.024:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182015.128:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182016.399:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182017.049:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182020.136:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182021.406:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182022.058:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182025.143:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182026.412:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182027.064:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182030.150:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182031.417:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182032.082:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182035.156:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182036.422:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182037.092:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182040.163:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182041.430:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182042.113:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182045.170:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182046.439:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182047.126:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182050.177:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182051.445:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182052.138:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182055.184:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182056.451:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182057.158:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182100.190:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182101.457:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182102.174:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182105.197:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182106.464:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182107.191:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182110.206:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182111.475:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182112.210:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182115.212:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182116.483:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182117.216:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182120.220:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182121.491:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182122.236:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182125.229:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182126.497:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182127.258:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182130.235:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182131.503:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182132.267:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182135.243:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182136.508:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182137.278:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182140.252:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182141.515:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182142.300:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182145.258:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182146.525:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182147.314:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182150.265:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182151.534:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182152.328:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182155.274:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182156.540:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182157.335:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182200.282:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182201.546:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182202.346:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182205.289:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182206.555:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182207.359:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182210.298:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182211.561:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182212.371:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182215.305:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182216.571:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182217.386:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182220.312:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182221.578:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182222.403:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182225.320:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182226.585:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182227.418:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182230.326:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182231.590:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182232.428:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182235.332:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182236.600:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182237.449:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182240.339:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182241.607:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182242.457:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182245.346:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182246.613:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182247.468:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182250.352:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182251.622:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182252.488:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182255.363:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182256.631:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182257.502:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182300.370:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182301.639:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182302.512:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182305.376:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182306.647:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182307.531:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182310.383:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182311.654:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182312.546:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182315.388:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182316.661:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182317.565:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182320.394:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182321.671:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182322.582:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182325.399:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182326.677:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182327.602:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182330.407:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182331.684:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182332.621:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182335.415:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182336.692:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182337.641:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182340.423:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182341.699:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182342.651:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182345.428:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182346.706:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182347.668:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182350.436:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182351.711:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182352.678:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182355.444:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182356.718:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182357.692:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182400.453:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182401.724:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182402.705:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182405.459:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182406.730:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182407.717:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182410.468:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182411.737:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182412.732:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182415.476:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182416.744:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182417.742:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182420.483:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182421.753:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182422.762:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182425.490:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182426.761:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182427.777:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182430.497:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182431.768:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182432.786:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182435.504:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182436.774:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182437.796:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182440.509:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182441.780:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182442.809:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182445.515:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182446.785:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182447.819:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182450.521:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182451.792:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182452.836:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182455.528:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182456.799:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182457.844:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182500.537:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182501.806:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182502.863:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182505.545:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182506.813:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182507.879:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182510.550:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182511.819:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182512.892:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182515.556:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182516.825:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182517.911:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182520.562:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182521.832:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182522.930:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182525.571:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182526.837:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182527.941:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182530.577:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182531.845:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182532.956:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182535.584:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182536.851:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182537.975:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182540.592:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182541.857:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182542.982:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182545.597:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182546.866:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182547.990:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182550.603:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182551.871:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182553.009:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182555.609:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182556.876:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182558.025:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182600.617:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182601.883:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182603.032:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182605.624:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182606.890:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182608.045:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182610.630:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182611.897:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182613.067:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182615.636:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182616.905:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182618.087:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182620.642:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182621.911:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182623.101:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182625.648:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182626.918:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182628.121:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182630.655:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182631.925:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182633.135:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182635.662:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182636.931:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182638.152:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182640.670:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182641.938:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182643.175:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182645.680:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182646.945:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182648.197:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182659.158:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/182659.174:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/184719.554:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/184719.557:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/184724.563:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/211149.144:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/211154.000:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/211154.161:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233015.126:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233015.288:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233020.134:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233020.304:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233025.143:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233025.312:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233029.306:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233029.332:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233029.413:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233029.429:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233030.148:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0920/233030.330:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
